@@ -1,0 +1,10 @@
+train: /content/gdrive/MyDrive/IntruderDetectionYOLOv8.v1i.yolov7pytorch/train/images
+val: /content/gdrive/MyDrive/IntruderDetectionYOLOv8.v1i.yolov7pytorch/valid/images
+test: /content/gdrive/MyDrive/IntruderDetectionYOLOv8.v1i.yolov7pytorch/test/images
+
+# Classes
+names:
+  0: CAR
+  1: Intruder
+  2: Vehicle
+  3: car
